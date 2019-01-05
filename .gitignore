@@ -68,3 +68,4 @@ test/serviceAccountKey.json
 
 # Test environment variable
 env.test.sh
+env.prod.sh
